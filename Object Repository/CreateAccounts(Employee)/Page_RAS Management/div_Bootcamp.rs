@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bootcamp</name>
+   <tag></tag>
+   <elementGuidId>96baa3b5-8229-4cc9-9e05-772d46508a60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='formHiring']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>84e8dc40-a407-44f6-9e74-9b30fdb91156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check</value>
+      <webElementGuid>e1ae240e-b9e0-4702-ba96-d08776e1ae7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Bootcamp
+                        
+                    </value>
+      <webElementGuid>e0dcf41f-ae45-4515-90b8-e432ef15db50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formHiring&quot;)/div[@class=&quot;col-sm-6 mb-3 mb-sm-0&quot;]/div[@class=&quot;form-check&quot;]</value>
+      <webElementGuid>f6d8fe67-d811-4f86-9c7f-0fc16ac38dc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='formHiring']/div/div[2]</value>
+      <webElementGuid>44ef9471-ed3a-4380-8918-aacabe99d2f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]</value>
+      <webElementGuid>062fea52-763a-4d5c-a356-1ace568d48fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                        Bootcamp
+                        
+                    ' or . = '
+                        Bootcamp
+                        
+                    ')]</value>
+      <webElementGuid>e8e06483-2041-4f5e-9896-1fa2a7dcf36c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
