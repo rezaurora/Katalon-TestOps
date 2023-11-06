@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de8cd25e-f08b-41c7-a329-fb4aaf420c9e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>332438fa-776b-41d5-8f0e-1d1bcebd5c39</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>332438fa-776b-41d5-8f0e-1d1bcebd5c39</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

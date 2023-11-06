@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9dfec80-86a3-42a5-85a6-027dd9e1a952</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3ef2d2c3-29e8-4911-944f-6503367cfc1c</id>
+      <iterationEntity>
+         <iterationType>SPECIFIC</iterationType>
+         <value>1</value>
+      </iterationEntity>
+      <testDataId>Data Files/RegisterData</testDataId>
+   </testDataLinks>
+</TestCaseEntity>

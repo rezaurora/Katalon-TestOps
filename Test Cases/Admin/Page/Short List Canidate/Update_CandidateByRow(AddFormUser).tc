@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update_CandidateByRow(AddFormUser)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b81b2876-1e4e-4fec-8409-d0e8caa465a5</testCaseGuid>
+</TestCaseEntity>

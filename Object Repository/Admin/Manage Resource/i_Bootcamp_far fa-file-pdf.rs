@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Bootcamp_far fa-file-pdf</name>
+   <tag></tag>
+   <elementGuidId>31b4ed43-b1c9-4b69-9322-aeea9f521b1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.far.fa-file-pdf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='dataTableEmployee']/tbody/tr/td[10]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>dd02622d-d4be-4c50-a853-077a9d05f684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>far fa-file-pdf</value>
+      <webElementGuid>00272e70-09b4-4e92-b968-dee3cf19b8e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataTableEmployee&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[10]/div[@class=&quot;text-center row&quot;]/a[@class=&quot;text-dark ml-2 pt-0&quot;]/i[@class=&quot;far fa-file-pdf&quot;]</value>
+      <webElementGuid>3610c559-4d05-4b39-9a54-53494d355e43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dataTableEmployee']/tbody/tr/td[10]/div/a/i</value>
+      <webElementGuid>94350c8b-ffae-4bd0-8e88-a3af701e30f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div/a/i</value>
+      <webElementGuid>3019278e-6d5c-4059-b139-9ebddfb076a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

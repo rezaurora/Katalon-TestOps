@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Logout</name>
+   <tag></tag>
+   <elementGuidId>6b35171b-43bb-48f4-b45d-42ba4f293b07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/nav/ul/li/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0681e7b8-7213-45f4-902c-a5a0825930b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>d6ec88c6-f6c8-450f-96fa-4a95970eb4bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>28830c14-e897-4a72-9d89-79ed88b58f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>dd985dab-71f3-498f-9987-7f6eefaf32d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#logoutModal</value>
+      <webElementGuid>b09a36e5-3e3f-4ff5-ab9a-f87169e4ab89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    
+                                    Logout
+                                </value>
+      <webElementGuid>2238eae5-b81c-49e2-86b0-e46b57b1bc95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/nav[@class=&quot;navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow&quot;]/ul[@class=&quot;navbar-nav ml-auto&quot;]/li[@class=&quot;nav-item dropdown no-arrow show&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-right shadow animated--grow-in show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>7b3a2568-48c8-4ea9-90d2-5378d18ed5ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/nav/ul/li/div/a[2]</value>
+      <webElementGuid>610eba9d-c199-412a-8a6f-a13f51e62bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[3]</value>
+      <webElementGuid>4316cf3a-0732-45d3-8a0b-9c216103689f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>1f175a5c-3810-4121-b8e5-11d82ce01c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+                                    
+                                    Logout
+                                ' or . = '
+                                    
+                                    Logout
+                                ')]</value>
+      <webElementGuid>72d44ccd-fa0c-4aaf-9a6e-968f0c39f794</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

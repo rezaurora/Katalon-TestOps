@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_Edit_Placement</name>
+   <tag></tag>
+   <elementGuidId>f85a3f51-9fac-443a-9bac-fe9f7d0eb100</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#placementData > div > div.card-header.py-2.d-flex > span.ml-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='placementData']/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>72844429-d304-4bbb-a321-527ac6f1bc04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-auto</value>
+      <webElementGuid>f5d8a208-f82a-4368-9755-1a6a4708e858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;placement&quot;)/div[@id=&quot;placementData&quot;]/div[1]/div[@class=&quot;card-header py-2 d-flex&quot;]/span[@class=&quot;ml-auto&quot;]</value>
+      <webElementGuid>6ccaf24b-fab9-4b72-ae70-bfdc97a200e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='placementData']/div/div/span[2]</value>
+      <webElementGuid>0e7a0ee3-1a34-4eab-b35e-e70fcb541930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/span[2]</value>
+      <webElementGuid>e209f6b0-2b80-4c39-9611-e1f23eb87c00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

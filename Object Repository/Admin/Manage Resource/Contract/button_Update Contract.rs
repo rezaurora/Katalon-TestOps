@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Update Contract</name>
+   <tag></tag>
+   <elementGuidId>8f35ab7c-ee5d-4271-8d3e-dbaf18819c50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-sm.text-light</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick=&quot;GetContract('9818');&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8e8f349b-dc09-4e8c-ba57-301cffcdaad1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm text-light</value>
+      <webElementGuid>ab3e46de-b223-4050-8d11-49bb4ae192c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>14e76a96-3ccb-45df-8757-0ea7de145e29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#modalContract</value>
+      <webElementGuid>a38b245b-433a-4207-8ca3-3c9d65e6c3c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>GetContract('9818');</value>
+      <webElementGuid>f48c12d7-d409-4b55-9b15-13ce9cb63ddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Update Contract
+                </value>
+      <webElementGuid>ef7dfdc0-0766-40b2-aec8-0ce56ce19977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;card-body m-0 pt-2&quot;]/div[@class=&quot;d-flex&quot;]/span[@class=&quot;ml-auto&quot;]/button[@class=&quot;btn btn-sm text-light&quot;]</value>
+      <webElementGuid>1ff6833e-3ad4-4274-8608-d2b3d9abe7e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick=&quot;GetContract('9818');&quot;]</value>
+      <webElementGuid>fc31840d-8bd8-4c31-abb7-c07ed095a736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div[2]/div[13]/span/button</value>
+      <webElementGuid>959bf694-a82a-4141-a9f7-2390612b11ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button</value>
+      <webElementGuid>6762b6b4-4869-48e7-ac5c-90941c0c3cd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                    Update Contract
+                ' or . = '
+                    Update Contract
+                ')]</value>
+      <webElementGuid>5bc9909d-2a37-489f-aaec-39c3bae8e8c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

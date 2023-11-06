@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update Placement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa14309b-fd2c-422b-bd94-2245ecf2c1ba</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>286bb1e2-98db-4eb3-a815-e2f37391507f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1b32597b-f1b2-4433-937f-842032a1d79f</variableId>
+   </variableLinks>
+</TestCaseEntity>

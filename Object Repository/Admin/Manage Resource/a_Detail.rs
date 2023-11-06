@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Detail</name>
+   <tag></tag>
+   <elementGuidId>db3b3e61-eaa8-4a91-8fb5-6ee01621f52c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.even > td:nth-of-type(10) > div.text-center.row > a.btn.ml-2.btn-sm.p-0.text-light</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;return Detail('9818')&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ed89c9d4-dfd7-42d9-951d-36617c4e9c35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>5959e7e8-749b-4f11-8fd2-e227f9356a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn  ml-2 btn-sm p-0 text-light</value>
+      <webElementGuid>c6a7dddc-e392-4fe7-a811-82a189700324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>2f6b64fd-7e46-4b49-9189-0d2322f623c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return Detail('9818')</value>
+      <webElementGuid>3b29f698-3fe9-4c3c-94ec-d6a90b80b058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail</value>
+      <webElementGuid>f76b195f-5480-4488-98f3-e02135973d01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataTableEmployee&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[10]/div[@class=&quot;text-center row&quot;]/a[@class=&quot;btn  ml-2 btn-sm p-0 text-light&quot;]</value>
+      <webElementGuid>4c70d073-550c-4677-ace0-dc5c396733c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;return Detail('9818')&quot;]</value>
+      <webElementGuid>e6d1cced-ea10-459a-8dc9-d905a274c7f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dataTableEmployee']/tbody/tr[2]/td[10]/div[2]/a</value>
+      <webElementGuid>02a8a991-a9d8-4363-bbd1-1cf39f7ec764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Detail')])[2]</value>
+      <webElementGuid>bb4a69eb-f995-47ec-bd26-594e25ecb360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[7]</value>
+      <webElementGuid>af84ee6a-f84f-4b38-827d-fccbe9c6f205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[10]/div[2]/a</value>
+      <webElementGuid>ca5ae534-3b34-4f96-95b3-858bfa98c8d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Detail' or . = 'Detail')]</value>
+      <webElementGuid>7e27ea00-0a66-4b54-b790-4fabfeb6f476</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

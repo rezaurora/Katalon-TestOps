@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New Placement</name>
+   <tag></tag>
+   <elementGuidId>63737910-3b76-4ff9-9fc7-cc1daa99781d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-sm.text-light.mb-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='placement']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cfefe1e4-7d5a-434a-b393-8e1dbc455de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f5160be1-0d5f-44cd-a41a-039e76e1b696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm text-light mb-3</value>
+      <webElementGuid>b4fa937f-1145-4a56-b1f0-e691fa52a094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>6dc7382b-fe34-4aaa-8e35-4977a36d01ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#modalPlacement</value>
+      <webElementGuid>fa512945-5d12-4bf6-beec-a7db4310b573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>ClearScreenPlacement();</value>
+      <webElementGuid>802f5003-5cbf-45a2-a59a-141eda6bf4df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        + New Placement
+    </value>
+      <webElementGuid>ba31807f-0703-4ec4-9c80-edbb2ba135f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;placement&quot;)/button[@class=&quot;btn btn-sm text-light mb-3&quot;]</value>
+      <webElementGuid>b3887e54-5055-46a2-b38b-67c45dfba95f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>7c099dce-45c5-40d6-8054-98d3302c8a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='placement']/button</value>
+      <webElementGuid>259bb8fe-d924-4485-91ee-53d0047f8694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>d9af3823-070f-4617-9f62-ff2347403256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '&#xd;
+        + New Placement&#xd;
+    ' or . = '&#xd;
+        + New Placement&#xd;
+    ')]</value>
+      <webElementGuid>77af8454-a115-438f-bd55-e168ecf157eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
